@@ -1,7 +1,7 @@
 /* eslint-disable react/jsx-no-undef */
 /* eslint-disable no-unused-vars */
 import React, { useState } from "react";
-import { Table, Button, Modal, Form, Input } from "antd";
+import { Table, Button, Modal, Form, Input, Spin } from "antd";
 import usePosts from "../hooks/useUsers";
 import UserTable from "./UserTable";
 import PostModal from "./PostModal";
