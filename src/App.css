@@ -1,0 +1,9 @@
+#root {
+  max-width: 1280px;
+  margin: 0;
+  padding: 2rem;
+  text-align: center;
+}
+.ant-card {
+  margin-bottom: 20px;
+}
